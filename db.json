@@ -1,0 +1,18 @@
+{
+  "viewings": [
+  {
+    "property": "property01",
+    "address": "1 Big Road, Sydney, 2000",
+    "date1": "1st October 2023 & 10am",
+    "date2": "1st October 2023 & 5pm",
+    "date3": "5th October 2023 & 10am"
+  },
+  {
+    "property": "property02",
+    "address": "2 Small Street, Melbourne, 3000",
+    "date1": "2nd October 2023 & 12pm",
+    "date2": "2nd October 2023 & 5pm",
+    "date3": "5th October 2023 12pm"
+  }
+  ]
+}
