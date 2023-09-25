@@ -2,17 +2,26 @@
   "viewings": [
   {
     "property": "property01",
-    "address": "1 Big Road, Sydney, 2000",
+    "address": "1 Big Road, Brisbane, 2000",
+    "state": "QLD",
     "date1": "1st October 2023 & 10am",
     "date2": "1st October 2023 & 5pm",
-    "date3": "5th October 2023 & 10am"
+    "date3": "5th October 2023 & 10am",
+    "pets": "not allowed",
+    "lease_period": " most leases are 12 months but you can ask for 6 months",
+    "price": "In QLD agents are not allowed to provide a guide for auction properties"
   },
   {
     "property": "property02",
     "address": "2 Small Street, Melbourne, 3000",
+    "state": "VIC",
     "date1": "2nd October 2023 & 12pm",
     "date2": "2nd October 2023 & 5pm",
-    "date3": "5th October 2023 12pm"
+    "date3": "5th October 2023 12pm",
+    "pets": "allowed",
+    "lease_period": "12 months only",
+    "price": "http://url-of-Statement of Information"
+
   }
   ]
 }
