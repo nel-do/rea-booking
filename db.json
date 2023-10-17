@@ -9,7 +9,7 @@
     "date3": "5th October 2023 at 10am",
     "pets": "not allowed",
     "lease_period": " most leases are 12 months but you can ask for 6 months",
-    "price": "In QLD agents are not allowed to provide a guide for auction properties"
+    "price": "This property leases for $2000 per calendar month."
   },
   {
     "property": "property02",
@@ -20,7 +20,7 @@
     "date3": "5th October 2023 at 12pm",
     "pets": "allowed",
     "lease_period": "12 months only",
-    "price": "http://url-of-Statement of Information"
+    "price": "This property leases for $2500 per calendar month."
 
   }
   ]
